@@ -1,0 +1,28 @@
+.main_product{
+	width: 1050px;
+	overflow: hidden;
+}
+.main_product ul{
+	float: left;
+	margin-left: 66px;
+}
+.main_product ul li{
+	float: left;
+	margin: 0 45px 50px 0;
+}
+.product_p{
+	color: white;
+    width: 280px;
+	height: 30px;
+	line-height: 30px;
+    display: block;
+    position: absolute;
+    text-align: center;
+	margin-top: -30px;
+    background-color: black;
+    opacity: 0.4;
+}
+.main_1 li :hover :last-child{
+    background-color: #00a4ff;
+	opacity: 1;
+}

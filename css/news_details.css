@@ -1,0 +1,94 @@
+.page_header {
+	width: 1000px;
+	margin-top: 80px;
+	margin-left: 200px;
+}
+.page_header h2{
+	margin-bottom: 20px;
+}
+
+.page_content {
+	width: 950px;
+	margin-left: 225px;
+	margin-top: 20px;
+}
+
+.source-share {
+	padding-bottom: 14px;
+	overflow: hidden;
+	border-bottom: 1px dotted #ccc;
+	color: #999;
+	font-size: 12px;
+}
+
+.source {
+	float: left;
+}
+
+.share {
+	float: right;
+}
+
+.source-share a {
+	color: #999;
+}
+
+.source-share .share a i {
+	display: inline-block;
+	padding-right: 3px;
+	background-image: url("../img/iconfont-weixin.png");
+	background-repeat: no-repeat;
+}
+
+.source-share .share a:nth-child(1) i {
+	width: 13px;
+	height: 11px;
+}
+
+.source-share .share a:nth-child(2) i {
+	width: 15px;
+	height: 13px;
+	background-image: url("../img/iconfont-qzone.png");
+	/* background-position: 0 -19px; */
+}
+
+.source-share .share a:nth-child(3) i {
+	width: 15px;
+	height: 13px;
+	background-image: url("../img/iconfont-xinlang.png");
+	/* background-position: 0 -40px; */
+}
+
+.source-share .share a:nth-child(4) i {
+	width: 15px;
+	height: 14px;
+	background-image: url("../img/iconfont-tengxunweibo.png");
+	/* background-position: 0 -61px; */
+}
+
+.news-article p,h3{
+	text-indent: 30px;
+	text-align: left;
+	margin-top: 10px;
+}
+
+.news-article img{
+	margin: 20px auto;
+}
+.news-article span{
+	font-size: 16px;
+}
+
+.news-article-footer{
+	border-top: 1px dotted #ccc;
+	margin-top: 60px;
+}
+.news-prev{
+	float: left;
+}
+.news-next{
+	float: right;
+}
+footer{
+	margin-top: 100px;
+}

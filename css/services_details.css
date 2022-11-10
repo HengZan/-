@@ -1,0 +1,20 @@
+.article{
+	width: 1000px;
+	overflow: hidden;
+	padding-left: 50px;
+	text-align: left;
+}
+.article h2{
+	text-align: center;
+	font-size: 25px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.xiaobiao{
+	font-size: 16px;
+	color: black;
+	font-weight: bold;
+}
+.article p{
+	margin-bottom: 10px;
+}
